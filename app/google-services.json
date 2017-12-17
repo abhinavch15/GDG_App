@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "498852137976",
+    "firebase_url": "https://gdgapp-60386.firebaseio.com",
+    "project_id": "gdgapp-60386",
+    "storage_bucket": "gdgapp-60386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498852137976:android:30ed5e7a1c595bf2",
+        "android_client_info": {
+          "package_name": "com.example.abhinavchinta.gdg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498852137976-unflab2cvdrhvibb71i8ji4ujfmjg4cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_li2Yhq0SWFfUanCpVxIPM5sCk_V4DXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
